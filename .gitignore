@@ -1,0 +1,59 @@
+# Laravel & PHP
+/vendor/
+/node_modules/
+/.idea/
+/.vscode/
+/.env
+/.env.*
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
+/storage/*.key
+/storage/app/public/*
+!/storage/app/public/.gitignore
+/storage/framework/cache/*
+!/storage/framework/cache/.gitignore
+/storage/framework/sessions/*
+!/storage/framework/sessions/.gitignore
+/storage/framework/testing/*
+!/storage/framework/testing/.gitignore
+/storage/framework/views/*
+!/storage/framework/views/.gitignore
+/storage/logs/*
+!/storage/logs/.gitignore
+
+# Composer
+composer.lock
+
+# NPM/Yarn/PNPM
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Laravel Homestead / Sail / Env
+/.homestead
+/.docker
+docker-compose*.yml
+
+# Cache / Temp
+*.log
+*.cache
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# Build outputs
+public/hot
+public/storage
+public/js/*
+public/css/*
+public/mix-manifest.json
+public/build/*
+!/public/.htaccess
+
+
