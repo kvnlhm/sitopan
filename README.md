@@ -1,4 +1,4 @@
-## SITOPAN - Sistem Audit Terintegrasi
+## SITOPAN - Sistem Informasi Tata Kelola dan Penilaian
 
 Deskripsi
 Proyek ini adalah aplikasi web untuk manajemen proses audit: mulai dari pengelolaan proyek, proses audit, bank pertanyaan, lembar kerja, logging aktivitas, hingga laporan PDF. Dibangun menggunakan Laravel dengan Blade templating.
@@ -69,7 +69,7 @@ Troubleshooting Cepat
 Lisensi
 Proyek ini untuk keperluan pembelajaran/portofolio. Sesuaikan lisensi sesuai kebutuhan Anda.
 
-## SITOPAN - Sistem Audit Terintegrasi
+## SITOPAN - Sistem Informasi Tata Kelola dan Penilaian
 
 Aplikasi web untuk mengelola proses audit end-to-end: manajemen proyek, proses/tahapan audit, bank pertanyaan, lembar kerja, logging, autentikasi dan kontrol privilese.
 
