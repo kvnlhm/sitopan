@@ -23,9 +23,9 @@ Persyaratan
 - Laragon (disarankan untuk Windows) atau stack lokal setara
 
 Instalasi (Windows/Laragon)
-1. Clone atau salin source code ke folder Laragon: C:\laragon\www\clientShlSI2020
+1. Clone atau salin source code ke folder Laragon: C:\laragon\www\sitopan
 2. Masuk ke folder proyek via terminal/PowerShell:
-   cd C:\laragon\www\clientShlSI2020
+   cd C:\laragon\www\sitopan
 3. Install dependencies PHP:
    composer install
 4. Salin file env dan generate APP_KEY:
@@ -113,7 +113,7 @@ storage/app/public/gambar/profil/
 - Laragon (opsional, untuk Windows)
 
 ## Setup Cepat (Laragon – Windows)
-1. Clone repo ke `C:\laragon\www\clientShlSI2020` (atau sesuai preferensi).
+1. Clone repo ke `C:\laragon\www\sitopan` (atau sesuai preferensi).
 2. Buka Terminal/PowerShell di folder proyek, jalankan:
    ```bash
    composer install
